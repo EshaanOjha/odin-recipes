@@ -1,1 +1,2 @@
 # odin-recipes
+This project is based on the course titled "The Odin Project" or TOP for short. It's a web-site consisting of a recipe and some functionalities to test my HTML skills. Personally, I know some web-development, so this project is more about using GIT than to make a recipe website. After the completion of this project, I would have demonstrated some HTML basics and understanding of certain GIT fundamentals.
